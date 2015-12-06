@@ -1,0 +1,28 @@
+name: ephphotography.com
+favicon: null
+layout_spectrum: 0.7618346540257335
+typography_spectrum: 0.9193058777600527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5130613197106868
+  lightness: 0.15072274743579328
+  saturation: 0.08625673735514283
+  rhythmicContrast: 0.9544497483875602
+purpose: []
