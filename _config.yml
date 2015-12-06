@@ -1,7 +1,7 @@
 name: ephphotography.com
 favicon: null
-layout_spectrum: 0.7618346540257335
-typography_spectrum: 0.9193058777600527
+layout_spectrum: 1
+typography_spectrum: 0.16514
 title: EPH Photography
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5130613197106868
-  lightness: 0.15072274743579328
-  saturation: 0.08625673735514283
-  rhythmicContrast: 0.9544497483875602
+    - '#ed0f79'
+    - '#000000'
+    - '#9b8f97'
+    - '#555555'
+    - '#ffffff'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
